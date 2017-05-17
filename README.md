@@ -56,7 +56,7 @@ Your project must:
 -   A **client app that consumes your API, built be the whole team**,
  hosted somewhere on the internet.
 -   **At least two Git repositories** (front-end and back-end) **hosted on
-    Github**, with frequent commits from _every_ team member dating back to the
+    Github**, with frequent commits on _all_ repositories from _every_ team member dating back to the
     _very beginning_ of the project.
 -   The `README.md` file inside your _**front-end**_ repo should have:
 
@@ -82,13 +82,25 @@ Your project must:
     -   A link to the deployed back-end app.
     -   A link to the repo for your front-end.
 
+## Non-Technical Requirements
+
+You and your team will be evaluated by each other and the consultant team on:
+
+  - Planning
+  - Decision Making
+  - Workflow
+  - Source Control
+  - Team Contribution
+  - Pair Programming
+  - Communication
+
 ## Overall Score
 
 Your consultants will give you a total score on your project as an aggregate
 across all feedback categories:
 
 | Score | Expectations                                           |
-|-------|--------------------------------------------------------|
+|:------|:-------------------------------------------------------|
 | **0** | _Does not meet expectations._                          |
 | **1** | _Meets expectations - good job!_                       |
 | **2** | _Exceeds expectations, you magnificent creature, you!_ |
@@ -98,6 +110,9 @@ But more important than your overall score is your feedback, particularly in
 individual categories - this will help you identify where to focus your efforts
 for future projects.
 
+**Note:**
+- Being a team player is the crux of this project. Failure to do so will result in the developer not being able to resubmit for this project.
+- For this project you can meet expectations as an individual even if your group does not, and vice versa.
 ## Getting Started
 
 Eager to get moving? Here are some good resources that you might want to refer
@@ -133,5 +148,6 @@ Some other suggestions and best practices:
 
 ## [License](LICENSE)
 
-Source code distributed under the MIT license. Text and other assets copyright
-General Assembly, Inc., all rights reserved.
+1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
+1.  All software code is licensed under GNU GPLv3. For commercial use or
+    alternative licensing, please contact legal@ga.co.
